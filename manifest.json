@@ -1,0 +1,13 @@
+{
+  "short_name": "Camara",
+  "name": "Camara PWA - CHIH",
+  "icons": [
+    { "src": "/camara/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/camara/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "scope": "/camara/"
+}
